@@ -1,6 +1,6 @@
 import argparse
 from src.graph import GridGraph, Cell
-from src.graph_search import a_star_search, breadth_first_search, depth_first_search
+from src.graph_search import  breadth_first_search
 from src.utils import generate_plan_file
 
 

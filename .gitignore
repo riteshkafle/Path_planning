@@ -1,6 +1,7 @@
 # Python
 *.pyc
 __pycache__/
+venv/
 
 # C / CPP
 *.o
@@ -12,5 +13,5 @@ __pycache__/
 # Replit
 .ccls-cache/
 
-# Planning output.
+# Planning output
 *.planner
