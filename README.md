@@ -3,6 +3,9 @@
 Template code for Project 3 (Path Planning) in Python.
 See [project instructions](https://hellorob.org/projects/p3) for more details.
 
+![Path Planning Video](https://github.com/user-attachments/assets/760b9fa3-8c4d-4782-ad35-bdaecad290f1)
+
+
 ## Testing your code on example maps
 
 This repository includes a helper script to visualize plan outputs compatible with the
